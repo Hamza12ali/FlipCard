@@ -1,5 +1,7 @@
-Day1  -  "Worked With The Grid Layout and the Designing of the card"\n
-Day2 - "Make The Logic for the Card"\n
-Day3 : "Make The UI and UI_Controller "\n
-Day4 :"Making The Resume Quit Functionality"\n
-Day5 : "Worked With The Game Logic"\n
+## Development Progress
+
+- **Day 1:** Designed the layout using **Grid Layout** and created the **card design**.
+- **Day 2:** Implemented the **card logic**.
+- **Day 3:** Built the **User Interface (UI)** and the **UI Controller**.
+- **Day 4:** Added **Resume** and **Quit** functionality.
+- **Day 5:** Worked on the **core game logic**.
